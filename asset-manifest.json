@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ASproson/react-burrito-bar/static/css/main.307dc3d0.chunk.css",
-    "main.js": "/ASproson/react-burrito-bar/static/js/main.84a580fc.chunk.js",
-    "main.js.map": "/ASproson/react-burrito-bar/static/js/main.84a580fc.chunk.js.map",
-    "runtime-main.js": "/ASproson/react-burrito-bar/static/js/runtime-main.6d6f439e.js",
-    "runtime-main.js.map": "/ASproson/react-burrito-bar/static/js/runtime-main.6d6f439e.js.map",
-    "static/js/2.27a16859.chunk.js": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js",
-    "static/js/2.27a16859.chunk.js.map": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js.map",
-    "index.html": "/ASproson/react-burrito-bar/index.html",
-    "static/css/main.307dc3d0.chunk.css.map": "/ASproson/react-burrito-bar/static/css/main.307dc3d0.chunk.css.map",
-    "static/js/2.27a16859.chunk.js.LICENSE.txt": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ASproson/react-burrito-bar/static/media/mexican-header.6f2cd8fd.png"
+    "main.css": "/react-burrito-bar/static/css/main.5d81e815.chunk.css",
+    "main.js": "/react-burrito-bar/static/js/main.84a580fc.chunk.js",
+    "main.js.map": "/react-burrito-bar/static/js/main.84a580fc.chunk.js.map",
+    "runtime-main.js": "/react-burrito-bar/static/js/runtime-main.93262df4.js",
+    "runtime-main.js.map": "/react-burrito-bar/static/js/runtime-main.93262df4.js.map",
+    "static/js/2.27a16859.chunk.js": "/react-burrito-bar/static/js/2.27a16859.chunk.js",
+    "static/js/2.27a16859.chunk.js.map": "/react-burrito-bar/static/js/2.27a16859.chunk.js.map",
+    "index.html": "/react-burrito-bar/index.html",
+    "static/css/main.5d81e815.chunk.css.map": "/react-burrito-bar/static/css/main.5d81e815.chunk.css.map",
+    "static/js/2.27a16859.chunk.js.LICENSE.txt": "/react-burrito-bar/static/js/2.27a16859.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-burrito-bar/static/media/mexican-header.6f2cd8fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d6f439e.js",
+    "static/js/runtime-main.93262df4.js",
     "static/js/2.27a16859.chunk.js",
-    "static/css/main.307dc3d0.chunk.css",
+    "static/css/main.5d81e815.chunk.css",
     "static/js/main.84a580fc.chunk.js"
   ]
 }
