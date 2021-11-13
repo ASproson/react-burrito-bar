@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/ASproson/react-burrito-bar/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ASproson/react-burrito-bar/static/js/main.b4ca90f3.chunk.js",
-    "main.js.map": "/ASproson/react-burrito-bar/static/js/main.b4ca90f3.chunk.js.map",
-    "runtime-main.js": "/ASproson/react-burrito-bar/static/js/runtime-main.628cd860.js",
-    "runtime-main.js.map": "/ASproson/react-burrito-bar/static/js/runtime-main.628cd860.js.map",
-    "static/js/2.75d2002d.chunk.js": "/ASproson/react-burrito-bar/static/js/2.75d2002d.chunk.js",
-    "static/js/2.75d2002d.chunk.js.map": "/ASproson/react-burrito-bar/static/js/2.75d2002d.chunk.js.map",
-    "static/js/3.ee2f55b8.chunk.js": "/ASproson/react-burrito-bar/static/js/3.ee2f55b8.chunk.js",
-    "static/js/3.ee2f55b8.chunk.js.map": "/ASproson/react-burrito-bar/static/js/3.ee2f55b8.chunk.js.map",
+    "main.css": "/ASproson/react-burrito-bar/static/css/main.307dc3d0.chunk.css",
+    "main.js": "/ASproson/react-burrito-bar/static/js/main.84a580fc.chunk.js",
+    "main.js.map": "/ASproson/react-burrito-bar/static/js/main.84a580fc.chunk.js.map",
+    "runtime-main.js": "/ASproson/react-burrito-bar/static/js/runtime-main.6d6f439e.js",
+    "runtime-main.js.map": "/ASproson/react-burrito-bar/static/js/runtime-main.6d6f439e.js.map",
+    "static/js/2.27a16859.chunk.js": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js",
+    "static/js/2.27a16859.chunk.js.map": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js.map",
     "index.html": "/ASproson/react-burrito-bar/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ASproson/react-burrito-bar/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.75d2002d.chunk.js.LICENSE.txt": "/ASproson/react-burrito-bar/static/js/2.75d2002d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ASproson/react-burrito-bar/static/media/logo.6ce24c58.svg"
+    "static/css/main.307dc3d0.chunk.css.map": "/ASproson/react-burrito-bar/static/css/main.307dc3d0.chunk.css.map",
+    "static/js/2.27a16859.chunk.js.LICENSE.txt": "/ASproson/react-burrito-bar/static/js/2.27a16859.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ASproson/react-burrito-bar/static/media/mexican-header.6f2cd8fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.628cd860.js",
-    "static/js/2.75d2002d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b4ca90f3.chunk.js"
+    "static/js/runtime-main.6d6f439e.js",
+    "static/js/2.27a16859.chunk.js",
+    "static/css/main.307dc3d0.chunk.css",
+    "static/js/main.84a580fc.chunk.js"
   ]
 }
