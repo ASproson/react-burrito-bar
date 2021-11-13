@@ -1,6 +1,6 @@
 # 🌯 Bill's React Burrito Bar
 
-This project was a half-day sprint with the goal of producing a single page application that tracks what fillings a users would like to fill their burrito with. As the user selects their fillings a total is calculated live, and rendered at the bottom of the app.
+This project was a half-day sprint with the goal of producing a single page application that tracks what fillings a user would like to fill their burrito with. As the user selects their fillings a total is calculated live, and rendered at the bottom of the app.
 
 You can view the live project here: [Bill's React Burrito Bar](https://asproson.github.io/react-burrito-bar/)
 
