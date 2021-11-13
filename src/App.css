@@ -1,38 +1,60 @@
-.App {
+header {
+  background-image: url('./mexican-header.png');
+  height: 15rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+  text-align: center;
+  margin: auto;
+  padding: 1rem;
+  color: black;
+}
+
+p {
+  width: 40%;
+  margin: 0 auto;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+form {
+  margin: 1.5rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ul {
+  list-style-type: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.filling-list-item, .total {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.filling-list-item {
+  padding: 10px;
+}
+
+.filling-list-item li {
+  margin-bottom: 0.5rem;
+}
+
+.filling-list-item {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+.filling-list-item label {
+  vertical-align: text-bottom;
+  margin-left: 0.2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.total-section {
+  margin-top: 1rem;
+}
+
+.separate-total-from-filling {
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+  width: 42%;
+  padding-top: 1rem;
 }
